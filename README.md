@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Koushal</h1>
-<h3 align="center">With a Bachelor's degree in Civil Engineering , I possess a strong command of data analytics tools, statistical analysis, and data visualization techniques. My proficiency in programming languages such as Python, R, and SQL enables me to extract valuable insights from complex datasets.</h3>
+<h3 align="center">With a Bachelor's degree in Civil Engineering , I possess a strong command of data analytics tools, statistical analysis, and data visualization techniques. My proficiency in programming languages such as Python and SQL enables me to extract valuable insights from complex datasets.</h3>
 
 - 📫 How to reach me **kashishdmn017@gmail.com**
 
